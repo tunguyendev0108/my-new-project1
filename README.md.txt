@@ -1,2 +1,1 @@
-NGUYEN HOANG TU
-01/08/1998
+This is my first repository on GitHub.
